@@ -1,0 +1,57 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Thu Jul 31 05:27:15 2025
+[*]
+[dumpfile] "C:\verilog_code\traffic_lights.vcd"
+[dumpfile_mtime] "Thu Jul 31 05:17:35 2025"
+[dumpfile_size] 7136
+[savefile] "C:\verilog_code\dump.gtkw"
+[timestart] 87000
+[size] 1000 600
+[pos] -1 -1
+*-18.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 118
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@28
+tb_traffic.R1_L_green
+tb_traffic.R1_L_red
+tb_traffic.R1_L_yellow
+tb_traffic.R1_R_green
+tb_traffic.R1_R_red
+tb_traffic.R1_R_yellow
+tb_traffic.R1_S_green
+tb_traffic.R1_S_red
+tb_traffic.R1_S_yellow
+tb_traffic.R2_L_green
+tb_traffic.R2_L_red
+tb_traffic.R2_L_yellow
+tb_traffic.R2_R_green
+tb_traffic.R2_R_red
+tb_traffic.R2_R_yellow
+tb_traffic.R2_S_green
+tb_traffic.R2_S_red
+tb_traffic.R2_S_yellow
+tb_traffic.R3_L_green
+tb_traffic.R3_L_red
+tb_traffic.R3_L_yellow
+tb_traffic.R3_R_green
+tb_traffic.R3_R_red
+tb_traffic.R3_R_yellow
+tb_traffic.R3_S_green
+tb_traffic.R3_S_red
+tb_traffic.R3_S_yellow
+tb_traffic.R4_L_green
+tb_traffic.R4_L_red
+tb_traffic.R4_L_yellow
+tb_traffic.R4_R_green
+tb_traffic.R4_R_red
+tb_traffic.R4_R_yellow
+tb_traffic.R4_S_green
+tb_traffic.R4_S_red
+tb_traffic.R4_S_yellow
+tb_traffic.clk
+tb_traffic.reset
+[pattern_trace] 1
+[pattern_trace] 0

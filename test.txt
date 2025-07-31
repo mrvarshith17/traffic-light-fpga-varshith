@@ -1,0 +1,7 @@
+// test.v
+module hello;
+  initial begin
+    $display("Hello, World from Verilog!");
+    $finish;
+  end
+endmodule
